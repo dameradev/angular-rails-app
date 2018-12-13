@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { Document } from './document'
 @Component({
-  
   selector: 'documents',
   templateUrl: 'documents.component.html'
 })
