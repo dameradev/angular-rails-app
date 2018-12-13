@@ -1,7 +1,8 @@
 import { Component } from '@angular/core';
 
 @Component({
+  moduleId: module.id,
   selector: 'app-root',
-  template: '<h1>pderesa BE</h1>',
+  templateUrl: 'homepage.component.html',
 })
 export class HomepageComponent {}
